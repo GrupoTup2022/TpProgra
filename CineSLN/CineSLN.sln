@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineDLL", "CineDLL\CineDLL.csproj", "{0923CA56-3EC8-4BA5-9059-D4BA3136C170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CineAPI", "CineAPI\CineAPI.csproj", "{792647F6-D5EF-4A7D-B1F3-7B2B8A62A32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontCine", "FrontCine\FrontCine.csproj", "{F5750CE9-57C7-47FF-B501-CEAF71A64B10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0923CA56-3EC8-4BA5-9059-D4BA3136C170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0923CA56-3EC8-4BA5-9059-D4BA3136C170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0923CA56-3EC8-4BA5-9059-D4BA3136C170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0923CA56-3EC8-4BA5-9059-D4BA3136C170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792647F6-D5EF-4A7D-B1F3-7B2B8A62A32D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792647F6-D5EF-4A7D-B1F3-7B2B8A62A32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792647F6-D5EF-4A7D-B1F3-7B2B8A62A32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792647F6-D5EF-4A7D-B1F3-7B2B8A62A32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5750CE9-57C7-47FF-B501-CEAF71A64B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5750CE9-57C7-47FF-B501-CEAF71A64B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5750CE9-57C7-47FF-B501-CEAF71A64B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5750CE9-57C7-47FF-B501-CEAF71A64B10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAD32D6E-3D69-4F47-B958-DEDC6A4C7624}
+	EndGlobalSection
+EndGlobal
